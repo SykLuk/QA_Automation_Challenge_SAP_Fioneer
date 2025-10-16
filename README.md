@@ -95,6 +95,8 @@ npx playwright test
 # Open the report
 npx playwright show-report
 ```
+There is also online report available on gitub: https://sykluk.github.io/QA_Automation_Challenge_SAP_Fioneer/
+
 
 ## Page Object Model
 
@@ -108,3 +110,4 @@ This project uses the Page Object Model (POM) pattern for better maintainability
 **Parallel Execution**: Enabled
 **Retries on CI**: 2
 **Reporter**: HTML
+
