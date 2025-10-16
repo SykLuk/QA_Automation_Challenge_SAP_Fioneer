@@ -1,0 +1,19 @@
+{
+  "name": "sap",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:e2e": "playwright test",
+    "playwright:install": "playwright install"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^10.1.0",
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^24.7.2"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "sectionHeading": "End-to-end solutions for financial services",
+  "cards": [
+    {
+      "heading": "Banking",
+      "description": "Reach more customers and build trust with real-time financial insights and risk control. Join the 800 banks globally who have chosen our platform.",
+      "url": "https://www.sapfioneer.com/banking/"
+    },
+    {
+      "heading": "Insurance",
+      "description": "Accelerate digital insurance processes to meet customer expectations and create new revenue streams by connecting easily to the ecosystem.",
+      "url": "https://www.sapfioneer.com/insurance/"
+    },
+    {
+      "heading": "Finance & ESG",
+      "description": "Establish a single source of truth for profitability and turn compliance into your advantage using our integrated finance & ESG platform.",
+      "url": "https://www.sapfioneer.com/finance-esg/"
+    }
+  ]
+}
